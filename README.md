@@ -1,4 +1,4 @@
-# CS253 Assignment 1 – Versioned File Indexer
+# CS253 Versioned File Indexer
 
 Name: Piyush Ghayal
 Roll Number: 240748
